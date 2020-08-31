@@ -9,3 +9,5 @@ Le fichier devra être créé en ligne de commande via le terminal et édité av
 Commitez et pushez votre travail sur Github ensuite via les commandes terminal giit.
 
 Bonne chance !
+
+Je fais des modifications pour les pusher.
